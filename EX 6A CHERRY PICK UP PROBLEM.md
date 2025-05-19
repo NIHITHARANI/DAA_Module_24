@@ -1,5 +1,5 @@
 # EX 6A CHERRY PICK UP PROBLEM
-## DATE:
+## DATE: 19-05-2025
 
 ## AIM:
 To Create a python program for the following problem statement.
